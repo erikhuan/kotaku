@@ -1,0 +1,13 @@
+.borderless.top.menu {
+  border: none;
+  color: #AAAAAA;
+}
+
+.middle.menu {
+  box-shadow: none;
+}
+
+.borderless.left.vertical.visible.sidebar.menu {
+  border: none;
+  box-shadow: none;
+}
